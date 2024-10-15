@@ -1,3 +1,3 @@
 <p>
-This is my local repo
-<p>
+    <b>This is my local repo</b>
+</p>
